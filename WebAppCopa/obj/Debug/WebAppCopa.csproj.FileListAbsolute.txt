@@ -1,0 +1,442 @@
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\WebAppCopa.dll.config
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\WebAppCopa.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\WebAppCopa.pdb
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\csc.exe
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\csc.exe.config
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\csc.rsp
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\csi.exe
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\csi.exe.config
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\csi.rsp
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.AppContext.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Collections.Immutable.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Console.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.IO.Compression.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.IO.FileSystem.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.IO.Pipes.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Reflection.Metadata.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Security.AccessControl.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Claims.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.ValueTuple.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.XPath.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\vbc.exe
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\vbc.exe.config
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\vbc.rsp
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\VBCSCompiler.exe
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\roslyn\VBCSCompiler.exe.config
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csprojAssemblyReference.cache
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csproj.CoreCompileInputs.cache
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csproj.CopyComplete
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.pdb
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\Library.dll
+D:\Materias\DS\Pro\CopaFifa\WebAppCopa\bin\Library.pdb
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\WebAppCopa.dll.config
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\WebAppCopa.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\WebAppCopa.pdb
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\csc.exe
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\csc.exe.config
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\csc.rsp
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\csi.exe
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\csi.exe.config
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\csi.rsp
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.AppContext.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Console.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\vbc.exe
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\vbc.exe.config
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\vbc.rsp
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\Library.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\Library.pdb
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csproj.CopyComplete
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.pdb
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\WebAppCopa.dll.config
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\WebAppCopa.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\WebAppCopa.pdb
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\csc.exe
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\csc.exe.config
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\csc.rsp
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\csi.exe
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\csi.exe.config
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\csi.rsp
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.AppContext.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.Collections.Immutable.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.Console.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.IO.Compression.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.IO.FileSystem.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.IO.Pipes.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.Reflection.Metadata.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.Security.AccessControl.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Claims.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Principal.Windows.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.ValueTuple.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.XPath.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\vbc.exe
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\vbc.exe.config
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\vbc.rsp
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\VBCSCompiler.exe
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\roslyn\VBCSCompiler.exe.config
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\Library.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\Library.pdb
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csprojResolveAssemblyReference.cache
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csproj.CoreCompileInputs.cache
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.pdb
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\WebAppCopa.dll.config
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\WebAppCopa.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\WebAppCopa.pdb
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\csc.exe
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\csc.exe.config
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\csc.rsp
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\csi.exe
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\csi.exe.config
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\csi.rsp
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.AppContext.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.Console.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.IO.Compression.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.IO.FileSystem.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.IO.Pipes.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.Security.AccessControl.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Claims.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.ValueTuple.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.XPath.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\vbc.exe
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\vbc.exe.config
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\vbc.rsp
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\VBCSCompiler.exe
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\Library.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\Library.pdb
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csprojResolveAssemblyReference.cache
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csproj.CoreCompileInputs.cache
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.pdb
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\WebAppCopa.dll.config
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\WebAppCopa.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\WebAppCopa.pdb
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\csc.exe
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\csc.exe.config
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\csc.rsp
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\csi.exe
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\csi.exe.config
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\csi.rsp
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.AppContext.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.Console.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.IO.Compression.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.IO.Pipes.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Claims.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.ValueTuple.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\vbc.exe
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\vbc.exe.config
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\vbc.rsp
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\VBCSCompiler.exe
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\Library.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\Library.pdb
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csprojAssemblyReference.cache
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csproj.CopyComplete
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.dll
+C:\Users\marce\Desktop\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.pdb
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\WebAppCopa.dll.config
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\WebAppCopa.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\WebAppCopa.pdb
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\csc.exe
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\csc.exe.config
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\csc.rsp
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\csi.exe
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\csi.exe.config
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\csi.rsp
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.Managed.Core.targets
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.AppContext.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Collections.Immutable.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Console.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.IO.Compression.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.IO.FileSystem.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.IO.Pipes.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Reflection.Metadata.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Security.AccessControl.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Claims.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Principal.Windows.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.ValueTuple.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.XmlDocument.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.XPath.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\vbc.exe
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\vbc.exe.config
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\vbc.rsp
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\VBCSCompiler.exe
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\VBCSCompiler.exe.config
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\Library.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\Library.pdb
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csprojAssemblyReference.cache
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csproj.CoreCompileInputs.cache
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csproj.CopyComplete
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.pdb
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\WebAppCopa.dll.config
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\WebAppCopa.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\WebAppCopa.pdb
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\csc.exe
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\csc.exe.config
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\csc.rsp
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\csi.exe
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\csi.exe.config
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\csi.rsp
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.Managed.Core.targets
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.AppContext.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Collections.Immutable.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Console.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.IO.Compression.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.IO.FileSystem.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.IO.Pipes.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Reflection.Metadata.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Security.AccessControl.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Claims.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Security.Principal.Windows.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.ValueTuple.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.XmlDocument.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.XPath.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\vbc.exe
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\vbc.exe.config
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\vbc.rsp
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\VBCSCompiler.exe
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\VBCSCompiler.exe.config
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\Library.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\Library.pdb
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csprojAssemblyReference.cache
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csproj.CoreCompileInputs.cache
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csproj.CopyComplete
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.pdb
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\WebAppCopa.dll.config
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\WebAppCopa.dll
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\WebAppCopa.pdb
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\csc.exe
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\csc.exe.config
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\csc.rsp
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\csi.exe
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\csi.rsp
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.AppContext.dll
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Collections.Immutable.dll
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.IO.FileSystem.dll
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\System.Reflection.Metadata.dll
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\vbc.exe
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\vbc.exe.config
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\vbc.rsp
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\VBCSCompiler.exe
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\roslyn\VBCSCompiler.exe.config
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\Library.dll
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\Library.pdb
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csprojAssemblyReference.cache
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csproj.CoreCompileInputs.cache
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.csproj.CopyComplete
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.dll
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\WebAppCopa\obj\Debug\WebAppCopa.pdb

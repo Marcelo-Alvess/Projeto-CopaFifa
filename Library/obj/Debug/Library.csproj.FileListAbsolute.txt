@@ -1,0 +1,48 @@
+D:\Materias\DS\Pro\CopaFifa\Library\bin\Debug\Library.dll
+D:\Materias\DS\Pro\CopaFifa\Library\bin\Debug\Library.pdb
+D:\Materias\DS\Pro\CopaFifa\Library\obj\Debug\Library.csprojAssemblyReference.cache
+D:\Materias\DS\Pro\CopaFifa\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Materias\DS\Pro\CopaFifa\Library\obj\Debug\Library.dll
+D:\Materias\DS\Pro\CopaFifa\Library\obj\Debug\Library.pdb
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\Library\bin\Debug\Library.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\Library\bin\Debug\Library.pdb
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\Library\obj\Debug\Library.dll
+C:\Users\Aluno\Desktop\CopaFifa-master\Pro\CopaFifa\Library\obj\Debug\Library.pdb
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\Library\bin\Debug\Library.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\Library\bin\Debug\Library.pdb
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\Library\obj\Debug\Library.dll
+E:\DADOS-LZ\WORK\ETEC\DS-2019-2\Aula06\CopaFifa\Library\obj\Debug\Library.pdb
+D:\Work\ETEC\DS-2019-2\CopaFifa\Library\bin\Debug\Library.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\Library\bin\Debug\Library.pdb
+D:\Work\ETEC\DS-2019-2\CopaFifa\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Work\ETEC\DS-2019-2\CopaFifa\Library\obj\Debug\Library.dll
+D:\Work\ETEC\DS-2019-2\CopaFifa\Library\obj\Debug\Library.pdb
+D:\Work\ETEC\DS-2019-2\CopaFifa\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\marce\Desktop\CopaFifa\Library\bin\Debug\Library.dll
+C:\Users\marce\Desktop\CopaFifa\Library\bin\Debug\Library.pdb
+C:\Users\marce\Desktop\CopaFifa\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\marce\Desktop\CopaFifa\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\CopaFifa\Library\obj\Debug\Library.dll
+C:\Users\marce\Desktop\CopaFifa\Library\obj\Debug\Library.pdb
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\Library\bin\Debug\Library.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\Library\bin\Debug\Library.pdb
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\Library\obj\Debug\Library.csprojAssemblyReference.cache
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\Library\obj\Debug\Library.dll
+F:\DS ETEC HORÁCIO\M2\DS\CopaFifa\Library\obj\Debug\Library.pdb
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\Library\bin\Debug\Library.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\Library\bin\Debug\Library.pdb
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\Library\obj\Debug\Library.csprojAssemblyReference.cache
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\Library\obj\Debug\Library.dll
+G:\DS ETEC HORÁCIO\M2\DS\CopaFifa\Library\obj\Debug\Library.pdb
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\Library\bin\Debug\Library.dll
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\Library\bin\Debug\Library.pdb
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\Library\obj\Debug\Library.csprojAssemblyReference.cache
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\Library\obj\Debug\Library.dll
+E:\DS ETEC HORÁCIO\M2\DS\CopaFifa\Library\obj\Debug\Library.pdb
